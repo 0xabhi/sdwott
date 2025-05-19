@@ -1,1 +1,2 @@
 this is first line in file.txt`:wq
+this is second line
