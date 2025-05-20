@@ -1,2 +1,5 @@
 this is first line in file.txt`:wq
 this is second line
+this is red
+this is blue
+this is oragnge
