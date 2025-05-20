@@ -1,3 +1,2 @@
 this is red file
-check	
-check	
+this is the staged saved file 
